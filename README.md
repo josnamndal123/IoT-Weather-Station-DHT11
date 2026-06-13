@@ -1,4 +1,4 @@
-# IoT-Weather-Station-DHT11
+# IoT-Weather-Station
 
 - **Name:** `JOSNA MANDAL`  
 - **Company:** `CODTECH IT SOLUTIONS`  

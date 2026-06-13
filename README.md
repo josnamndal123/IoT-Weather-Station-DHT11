@@ -1,2 +1,8 @@
 # IoT-Weather-Station-DHT11
-IoT Weather Monitoring System using DHT11 Sensor and NodeMCU
+
+- **Name:** `JOSNA MANDAL`  
+- **Company:** `CODTECH IT SOLUTIONS`  
+- **ID:** `CITS2604`  
+- **Domain:** `EMBEDED SYSTEMS`  
+- **Internship Duration:**  `June 12, 2026` – `July 10, 2026`
+- 
